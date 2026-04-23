@@ -68,6 +68,6 @@
 ---
 
 ### ✨ Fun Fact
-> I love building clean APIs and scalable backend systems 🚀
+> I love building clean APIs and scalable backend systems. 🚀
 
 ---
